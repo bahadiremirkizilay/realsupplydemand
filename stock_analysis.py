@@ -70,6 +70,7 @@ def create_stock_analysis_file(stock_symbol, start_date, end_date, output_file):
 # Main execution block
 if __name__ == "__main__":
     # Get user input for analysis parameters
+    print("You can find valid stock symbols from Yahoo Finance (e.g., AAPL for Apple, ^GSPC for S&P 500, EURUSD=X for EUR/USD)")
     stock_symbol = input("Enter stock symbol (e.g., AAPL for Apple, ^GSPC for S&P 500): ").upper()
     start_date = input("Enter start date (YYYY-MM-DD): ")
     end_date = min(datetime.strptime(input("Enter end date (YYYY-MM-DD): "), "%Y-%m-%d"), datetime(2025, 3, 15))

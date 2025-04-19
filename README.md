@@ -1,6 +1,13 @@
 # Supply Demand Analysis Tool
 
-This project is a tool that helps determine supply and demand levels by analyzing stock market data. The project consists of two main components:
+This project aims to analyze a given dataset to identify the most frequently repeated values. The analysis module, named "RealSupplyDemand", highlights the data points that occur most often. The more frequently a value appears, the more significant it becomes.
+
+These high-frequency levels behave like real supply and demand zones, making them critical for making strategic decisions or deriving insights from the data. Additionally, these values are suitable for use in both low time frames (minute, hour) and high time frames (day, week).
+
+Note: When selecting the start and end dates, choosing a wider time range will provide more accurate and reliable results.
+Example: start date: 2024-01-01, end date: 2025-04-01
+
+The project consists of two main components:
 
 1. Stock data retrieval and analysis tool
 2. Duplicate value analysis tool
@@ -57,6 +64,22 @@ Open the Jupyter Notebook and run the cells in sequence. Analysis results will b
    - Count of each duplicate value
    - Results saved to an Excel file
 
+## Example Analysis Results
+
+### NASDAQ-100 Analysis
+Daily and Weekly timeframes showing supply-demand levels:
+![NASDAQ Analysis](images/nasdaq_analysis.png)
+
+Daily timeframe with identified supply-demand zones:
+![NASDAQ Analysis 2](images/nasdaq_analysis (2).png)
+
+### Tesla (TSLA) Analysis
+Daily timeframe with identified supply-demand zones:
+![Tesla Analysis](images/tesla_analysis.png)
+
+Daily timeframe showing supply-demand levels:
+![Tesla Analysis 2](images/tesla_analysis (2).png)
+
 ## Contributing
 
 1. Fork this repository
@@ -64,4 +87,14 @@ Open the Jupyter Notebook and run the cells in sequence. Analysis results will b
 3. Commit your changes (`git commit -m 'Add some amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Create a Pull Request
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+Project Owner - [@yourusername](https://github.com/yourusername)
+
+Project Link: [https://github.com/yourusername/realsupplydemand](https://github.com/yourusername/realsupplydemand)
 
