@@ -71,14 +71,14 @@ Daily and Weekly timeframes showing supply-demand levels:
 ![NASDAQ Analysis](images/nasdaq_analysis.png)
 
 Daily timeframe with identified supply-demand zones:
-![NASDAQ Analysis 2](images/nasdaq_analysis (2).png)
+![NASDAQ Analysis 2](images/nasdaq_analysis2.png)
 
 ### Tesla (TSLA) Analysis
 Daily timeframe with identified supply-demand zones:
 ![Tesla Analysis](images/tesla_analysis.png)
 
 Daily timeframe showing supply-demand levels:
-![Tesla Analysis 2](images/tesla_analysis (2).png)
+![Tesla Analysis 2](images/tesla_analysis2.png)
 
 ## Contributing
 
@@ -88,13 +88,4 @@ Daily timeframe showing supply-demand levels:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Create a Pull Request
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-Project Owner - [@yourusername](https://github.com/yourusername)
-
-Project Link: [https://github.com/yourusername/realsupplydemand](https://github.com/yourusername/realsupplydemand)
 
