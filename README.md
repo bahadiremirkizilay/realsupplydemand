@@ -65,13 +65,3 @@ Open the Jupyter Notebook and run the cells in sequence. Analysis results will b
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Create a Pull Request
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-Project Owner - [@yourusername](https://github.com/yourusername)
-
-Project Link: [https://github.com/yourusername/realsupplydemand](https://github.com/yourusername/realsupplydemand)
-
